@@ -4,6 +4,8 @@ I am a versatile backend oriented ***Software Engineer*** based out of Seattle. 
 
 I received my Bachelors of Science in ***Computer Engineering at Purdue University*** in May 2022.
 
+See my portfolio veddave.com
+
 Contact me:
 <p align='left'>
 	<a href="https://www.linkedin.com/in/ved-dave-b715ab152/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
