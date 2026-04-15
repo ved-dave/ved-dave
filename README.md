@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there, I'm Ved</h3>
+<h3 align="center">👋 Hi there</h3>
 
 <p align="center">
   <a href="https://veddave.com">Website</a> •
